@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = v.alvesmarques@gmail.com
+	name = Vinicius Marques
